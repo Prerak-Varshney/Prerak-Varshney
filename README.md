@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhjeTRpNG9rOG1rZGZ0eTZ1dG1wZnM2aGc1ZzBidDQwbzdyYmZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhjeTRpNG9rOG1rZGZ0eTZ1dG1wZnM2aGc1ZzBidDQwbzdyYmZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 
 <p align="center">
@@ -64,7 +64,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prerak-Varshney&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-### ✍️ Dev Quote
+# ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" />
