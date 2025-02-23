@@ -8,11 +8,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Prerak;It's+nice+to+see+you" alt="Typing SVG" /></a>
 </p>
 
-<br>
+
 
 <h2 align="left"></h2>
 
-</div>
+<!-- </div> -->
 
 # 🔗 Find me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chaoscoder.me/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prerakvarshney12/) [![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/Prerak1202/)
