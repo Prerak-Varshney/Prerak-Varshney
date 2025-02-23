@@ -9,11 +9,6 @@
 </p>
 
 
-
-<!-- <h2 align="left"></h2> -->
-
-<!-- </div> -->
-
 # 🔗 Find me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chaoscoder.me/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prerakvarshney12/) [![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/Prerak1202/)
 
