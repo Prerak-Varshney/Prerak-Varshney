@@ -56,10 +56,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prerak-Varshney&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-### ✍️ Random Dev Quote
-<div align="center">
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
