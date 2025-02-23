@@ -7,6 +7,8 @@
   </a>
 </p>
 
+###
+
 <h2 align="left"></h2>
 
 </div>
@@ -63,4 +65,7 @@
 </div>
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" />
+</p>
