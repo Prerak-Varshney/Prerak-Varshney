@@ -37,19 +37,19 @@
 # 🚀 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prerak-Varshney&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="400" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prerak-Varshney&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="300" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Prerak-Varshney&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="400" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Prerak-Varshney&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="300" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prerak-Varshney&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&custom_title=Languages" height="400" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prerak-Varshney&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&custom_title=Languages" height="300" alt="languages graph"  />
 </div>
 
 ###
