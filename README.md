@@ -2,6 +2,8 @@
   <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhjeTRpNG9rOG1rZGZ0eTZ1dG1wZnM2aGc1ZzBidDQwbzdyYmZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+Prerak+Varshney)](https://git.io/typing-svg)
+
 ###
 
 <h2 align="left"></h2>
