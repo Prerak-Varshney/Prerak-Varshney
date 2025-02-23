@@ -2,6 +2,8 @@
   <img height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhjeTRpNG9rOG1rZGZ0eTZ1dG1wZnM2aGc1ZzBidDQwbzdyYmZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 
+<br>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Hey%2C+I'm+Prerak+Varshney.+;A+Software+Developer." alt="Typing SVG" />
   </a>
@@ -51,7 +53,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prerak-Varshney&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&custom_title=Languages" height="300" alt="languages graph"  />
 </div> -->
-
+<br>
 <div align="center">
   <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />
@@ -82,6 +84,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" />
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Thanks+For+Visiting" alt="Typing SVG" /></a>
