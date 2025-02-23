@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhjeTRpNG9rOG1rZGZ0eTZ1dG1wZnM2aGc1ZzBidDQwbzdyYmZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhjeTRpNG9rOG1rZGZ0eTZ1dG1wZnM2aGc1ZzBidDQwbzdyYmZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ### 🚀 GitHub Stats:
@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  />
 </div>
 
 ###
@@ -57,7 +57,9 @@
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 
 
